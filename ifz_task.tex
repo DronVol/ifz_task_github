@@ -1,0 +1,30 @@
+\documentclass[a4paper,14pt]{article}
+\usepackage{extsizes}
+\usepackage[english, russian]{babel}
+\usepackage[pdftex]{graphicx}
+\usepackage[T2A, T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{caption}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{geometry}  % установка полей
+\usepackage{cases}
+\usepackage{cancel}
+\geometry{top=3.5cm,bottom=2cm,left=2cm,right=2cm}
+%\usepackage{graphicx}
+\graphicspath{}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg,}
+%\renewcommand{\figurename}{Рис}
+\renewcommand{\figurename}{Рис.}
+\renewcommand{\d}{\displaystyle}
+%\renewcommand{\rmdefault}{ftm}
+\newtheorem*{note}{Замечание} \theoremstyle{remark}
+\newtheorem*{theorems}{Теорема}
+\newtheorem*{conjecture}{Гипотеза}
+\begin{document}
+\include{problem_statement}
+\include{diff_eq_num_scheme}
+\include{solution_scheme}
+
+\end{document}

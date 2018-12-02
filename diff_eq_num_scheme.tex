@@ -1,0 +1,16 @@
+\section{Численная схема уравнений диффузии}
+\par Сделаем замену координат в представленных уравнениях. Возьмём следующую замену: $\d \xi = \frac{r-R}{S-R}$, такую что $r = R$ $\xi = 0$, $r = S$ $\xi = 1$. В уравнении 4 изменений нет, в уравнении 2 $\tilde{\mu_{e}}=(S-R)\int\limits^{1}_{0}\frac{\mu(\xi, c_{w})}{(\xi(S-R)+R)^{4}}d\xi$. В уравнении 3 правая часть принимает вид $4\pi R\rho_{m}[D_{c}\left.\frac{\partial c_{c}}{\partial \xi}\right|_{\xi=0}+D_{w}\left.\frac{\partial c_{w}}{\partial \xi}\right|_{\xi=0}]$.
+
+\par Для первого уравнения $\d \frac{\partial c_{s}}{\partial t}+\nu_{r} \frac{\partial c_{s}}{\partial r}=\frac{1}{r^{2}}\frac{\partial}{\partial r}(D_{s}r^{2}\frac{\partial c_{s}}{\partial r})$ численная схема рассматривается в следующем виде. Каждый член этого уравнения умножается на $r^{2}$ и интегрируется между узлами сетки. После интегрирования получаем следующее уравнение.
+$$\left.\frac{\partial c_{s}}{\partial t}\right|_{\xi}\cdot\left.\frac{r^{3}}{3}\right|^{r_{jk}}_{r_{ij}}+\nu_{r}\left.\frac{\partial c_{s}}{\partial r}\right|_{r=\xi}\cdot\left.\frac{r^{3}}{3}\right|^{r_{jk}}_{r_{ij}}=\left.D_{s}r^{2}\frac{\partial c_{s}}{\partial r}\right|^{r_{jk}}_{r_{ij}}$$
+\par Точка $\xi$ здесь является промежуточной точкой между двумя соседними узлами, которая появилась при интегрировании в следствии применения теоремы о среднем. Перепишем это уравнение в виде конечно-разностной схемы.
+$$\frac{c_{s}(\xi_{j},t_{i+1})-c_{s}(\xi_{j},t_{i})}{t_{i+1}-t_{i}}\cdot\frac{r_{jk}^{3}-r_{ij}^{3}}{3}+\nu_{r}\frac{c_{s}(\xi_{j+1},t_{i})-c_{s}(\xi_{j},t_{i})}{r_{jk}-r_{ij}}\cdot\frac{r_{jk}^{3}-r_{ij}^{3}}{3}=$$
+$$=D_{s}\left(r_{jk}^{2}\frac{c_{s}(r_{kk+1},t_{i})-c_{s}(r_{jk,t_{i}})}{r_{kk+1}-r_{jk}}-r_{ij}^{2}\frac{c_{s}(r_{jk},t_{i})-c_{s}(r_{ij,t_{i}})}{r_{jk}-r_{ij}}\right)$$
+\par Здесь $\xi_{j+1}$ --- точка, расположенная между $r_{jk}$ и следующей точкой сетки. Если положить, что при достаточно мелком разбиении точка $\xi$ близка к $\frac{r_{ij}+r_{jk}}{2}$, перепишем полученное уравнение.
+$$\frac{c_{s}(r_{ij}, t_{i+1})+c_{s}(r_{jk}, t_{i+1})-c_{s}(r_{ij}, t_{i})-c_{s}(r_{jk}, t_{i})}{2(t_{i+1}-t_{i})}\cdot\frac{r_{jk}^{3}-r_{ij}^{3}}{3}+$$
+$$+\frac{R(t_{i+1})-R(t_{i})}{t_{i+1}-t_{i}}\frac{c_{s}(r_{kk+1}, t_{i})+c_{s}(r_{jk}, t_{i})-c_{s}(r_{jk}, t_{i})-c_{s}(r_{ij}, t_{i})}{r_{jk}-r_{ij}}\cdot\frac{r_{jk}^{3}-r_{ij}^{3}}{3}=$$
+$$=D_{s}\left(r_{jk}^{2}\frac{c_{s}(r_{kk+1},t_{i})-c_{s}(r_{jk,t_{i}})}{r_{kk+1}-r_{jk}}-r_{ij}^{2}\frac{c_{s}(r_{jk},t_{i})-c_{s}(r_{ij,t_{i}})}{r_{jk}-r_{ij}}\right)$$
+\par Уравнение баланса массы можно переписать в следующем виде:
+$$\frac{4\pi}{3}\frac{R^{3}(t_{i+1})\rho_{g}(t_{i+1})-R^{3}(t_{i})\rho_{g}(t_{i})}{t_{i+1}-t_{i}}=4\pi R^{2}(t_{i})\rho_{m}(t_{i})\left[D_{c}\frac{c_{c}(t_{i},r_{j})-c_{c}(t_{i},r_{i})}{r_{j}-r_{i}}+\right.$$
+$$\left.+D_{w}\frac{c_{w}(t_{i},r_{j})-c_{w}(t_{i},r_{i})}{r_{j}-r_{i}}\right]$$
+\par Здесь $r_{i}$ и $r_{j}$ --- точки, расположенные вплотную к стенке пузырька.
