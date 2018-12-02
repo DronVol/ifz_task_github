@@ -10,11 +10,13 @@ $$\frac{\partial f}{\partial r}=\frac{\partial f}{\partial \xi}\frac{\partial \x
 $$\frac{\partial \xi}{\partial r}=\frac{1}{S-R};\;\;\frac{\partial \xi}{\partial t}=\frac{\dot{R}(\xi -1)-\dot{S}\xi}{S-R}$$
 
 \par Для 2 уравнения, после подстановки решения $\nu_{r}$, имеем:\\
-$$\d \frac{\partial c_{s}}{\partial t}+\frac{1}{r^{2}}\dot{R}R^{2}\frac{\partial c_{s}}{\partial r}=\frac{1}{r^{2}}\frac{\partial}{\partial r}(D_{s}r^{2}\frac{\partial c_{s}}{\partial r})$$
+$$\d \frac{\partial c_{s}}{\partial t}+\frac{1}{r^{2}}\dot{R}R^{2}\frac{\partial c_{s}}{\partial r}=\frac{1}{r^{2}}\frac{\partial}{\partial r}\left(D_{s}r^{2}\frac{\partial c_{s}}{\partial r}\right)$$
 Выполним вышеуказанную подстановку. После приведения членов, получим:
-$$\frac{\partial c_{s}}{\partial t}+\frac{\partial c_{s}}{\partial \xi}\frac{1}{S-R}\left[\dot{R}(\xi-1)-\dot{S}\xi+\frac{\dot{R}R^{2}}{(\xi(S-R)+R)^{2}}\right]=\frac{1}{r^{2}}\frac{\partial}{\partial r}(D_{s}r^{2}\frac{\partial c_{s}}{\partial r})$$
+$$\frac{\partial c_{s}}{\partial t}+\frac{\partial c_{s}}{\partial \xi}\frac{1}{S-R}\left[\dot{R}(\xi-1)-\dot{S}\xi+\frac{\dot{R}R^{2}}{(\xi(S-R)+R)^{2}}\right]=\frac{1}{r^{2}}\frac{\partial}{\partial r}\left(D_{s}r^{2}\frac{\partial c_{s}}{\partial r}\right)$$
 Для второго слагаемого введём обозначение для числителя выражения в квадратных скобках после приведения к общему знаминателю:
-$$\kappa(\xi,t)=\left(\dot{R}(\xi-1)-\dot{S}\xi\right)\left(\xi^{2}(S-R)^{2}+R^{2}+2R\xi(S-R)+\dot{R}R^{2}\right)$$
+$$\kappa(\xi,t)=\left(\dot{R}(\xi-1)-\dot{S}\xi\right)\left(\xi^{2}(S-R)^{2}+R^{2}+2R\xi(S-R)\right)+\dot{R}R^{2}$$
+Получаем
+$$\frac{\partial c_{s}}{\partial t}+\frac{\partial c_{s}}{\partial \xi}\frac{1}{S-R}\frac{\kappa(\xi,t)}{r^{2}}=\frac{1}{r^{2}}\frac{1}{(S-R)^{2}}\frac{\partial}{\partial \xi}\left(D_{s}r^{2}\frac{\partial c_{s}}{\partial \xi}\right)$$
 \par Проинтегрируем это уравнение по отрезкам от $\xi_{i}$ до $\xi_{j}$, умноженное на $\xi^{2}$. Проинтегрируем каждое слагаемое отдельно.
 $$\int\limits^{\xi_{j}}_{\xi_{i}}\xi^{2}\frac{\partial c_{s}}{\partial t}d\xi=\frac{1}{3}\frac{\partial c_{s}}{\partial t}\xi^{3}\;\;\;\text{(1)}$$
 $$\frac{\dot{R}}{S-R}\int\limits^{\xi_{j}}_{\xi_{i}}\xi^{2}\frac{\partial c_{s}}{\partial \xi}\left(\frac{1-\dot{R}(\xi-1)-\dot{S}\xi}{S-R}\right)d\xi=\frac{\dot{R}}{S-R}\left[\xi^{2}c_{s}(1-\right.$$
