@@ -2,16 +2,19 @@
 
 \par Сделаем замену координат в представленных уравнениях. Возьмём следующую замену: $$\d \xi = \frac{r-R}{S-R}$$
 такую что $r = R$ $\xi = 0$, $r = S$ $\xi = 1$.
-\par В уравнении 4 изменений нет, в уравнении 2 $$\tilde{\mu_{e}}=(S-R)\int\limits^{1}_{0}\frac{\mu(\xi, c_{w})}{(\xi(S-R)+R)^{4}}d\xi$$
-\par В уравнении 3 правая часть принимает вид $$4\pi R\rho_{m}\left[D_{c}\left.\frac{\partial c_{c}}{\partial \xi}\right|_{\xi=0}+D_{w}\left.\frac{\partial c_{w}}{\partial \xi}\right|_{\xi=0}\right]$$
+\par В уравнении 5 изменений нет, в уравнении 3 $$\tilde{\mu_{e}}=(S-R)\int\limits^{1}_{0}\frac{\mu(\xi, c_{w})}{(\xi(S-R)+R)^{4}}d\xi$$
+\par В уравнении 4 правая часть принимает вид $$4\pi R\rho_{m}\left[D_{c}\left.\frac{\partial c_{c}}{\partial \xi}\right|_{\xi=0}+D_{w}\left.\frac{\partial c_{w}}{\partial \xi}\right|_{\xi=0}\right]$$
 \par Для рассматриваемой замены координат имеем следующее:
 $$\frac{\partial f}{\partial r}=\frac{\partial f}{\partial \xi}\frac{\partial \xi}{\partial r};\;\;\frac{\partial f(x,t)}{\partial t}=\frac{\partial f(\xi,t)}{\partial t}+\frac{\partial f(\xi,t)}{\partial \xi}\frac{\partial \xi}{\partial t}$$
 \par Используя эти правила, получим:
 $$\frac{\partial \xi}{\partial r}=\frac{1}{S-R};\;\;\frac{\partial \xi}{\partial t}=\frac{\dot{R}(\xi -1)-\dot{S}\xi}{S-R}$$
 
-\par Для первого уравнения $$\d \frac{\partial c_{s}}{\partial t}+\nu_{r} \frac{\partial c_{s}}{\partial r}=\frac{1}{r^{2}}\frac{\partial}{\partial r}(D_{s}r^{2}\frac{\partial c_{s}}{\partial r})$$
-выполним вышеуказанную подстановку. После приведения членов, получим:
-$$\frac{\partial c_{s}}{\partial t}+\dot{R}\frac{\partial c_{s}}{\partial \xi}\left(\frac{1-\dot{R}(\xi -1)-\dot{S}\xi}{S-R}\right)=\frac{1}{(S-R)^{2}}D_{s}\left(2\frac{(S-R)}{\xi(S-R)+R}+\frac{\partial^{2} c_{s}}{\partial \xi^{2}}\right)$$
+\par Для 2 уравнения, после подстановки решения $\nu_{r}$, имеем:\\
+$$\d \frac{\partial c_{s}}{\partial t}+\frac{1}{r^{2}}\dot{R}R^{2}\frac{\partial c_{s}}{\partial r}=\frac{1}{r^{2}}\frac{\partial}{\partial r}(D_{s}r^{2}\frac{\partial c_{s}}{\partial r})$$
+Выполним вышеуказанную подстановку. После приведения членов, получим:
+$$\frac{\partial c_{s}}{\partial t}+\frac{\partial c_{s}}{\partial \xi}\frac{1}{S-R}\left[\dot{R}(\xi-1)-\dot{S}\xi+\frac{\dot{R}R^{2}}{(\xi(S-R)+R)^{2}}\right]=\frac{1}{r^{2}}\frac{\partial}{\partial r}(D_{s}r^{2}\frac{\partial c_{s}}{\partial r})$$
+Для второго слагаемого введём обозначение для числителя выражения в квадратных скобках после приведения к общему знаминателю:
+$$\kappa(\xi,t)=\left(\dot{R}(\xi-1)-\dot{S}\xi\right)\left(\xi^{2}(S-R)^{2}+R^{2}+2R\xi(S-R)+\dot{R}R^{2}\right)$$
 \par Проинтегрируем это уравнение по отрезкам от $\xi_{i}$ до $\xi_{j}$, умноженное на $\xi^{2}$. Проинтегрируем каждое слагаемое отдельно.
 $$\int\limits^{\xi_{j}}_{\xi_{i}}\xi^{2}\frac{\partial c_{s}}{\partial t}d\xi=\frac{1}{3}\frac{\partial c_{s}}{\partial t}\xi^{3}\;\;\;\text{(1)}$$
 $$\frac{\dot{R}}{S-R}\int\limits^{\xi_{j}}_{\xi_{i}}\xi^{2}\frac{\partial c_{s}}{\partial \xi}\left(\frac{1-\dot{R}(\xi-1)-\dot{S}\xi}{S-R}\right)d\xi=\frac{\dot{R}}{S-R}\left[\xi^{2}c_{s}(1-\right.$$
