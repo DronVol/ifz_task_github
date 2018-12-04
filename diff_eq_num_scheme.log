@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.23)  7 NOV 2018 00:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.28)  5 DEC 2018 00:23
 entering extended mode
 **./diff_eq_num_scheme.tex
 (diff_eq_num_scheme.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2018-04-01> patch level 5
 ! Undefined control sequence.
 l.1 \section
             {Численная схема уравнений диффузии}
@@ -14,1002 +13,1381 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
+! Package inputenc Error: Unicode character Ч (U+427)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Ч
+               исленная схема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Чи
+                 сленная схема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Чис
+                   ленная схема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+43B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Числ
+                     енная схема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Числе
+                       нная схема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Числен
+                         ная схема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численн
+                           ая схема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численна
+                             я схема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character я (U+44F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численная
+                                схема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численная с
+                                  хема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character х (U+445)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численная сх
+                                    ема уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численная схе
+                                      ма уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+43C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численная схем
+                                        а уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численная схема
+                                           уравнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численная схема у
+                                             равнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численная схема ур
+                                               авнений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Численная схема ура
+                                                 внений диффузии}
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...tion{Численная схема урав
+                                                  нений диффузии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...on{Численная схема уравн
+                                                  ений диффузии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...{Численная схема уравне
+                                                  ний диффузии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�исленная схема уравнен
+                                                  ий диффузии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�сленная схема уравнени
+                                                  й диффузии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character й (U+439)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ленная схема уравнений
+                                                   диффузии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character д (U+434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...енная схема уравнений д
+                                                  иффузии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...нная схема уравнений ди
+                                                  ффузии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ф (U+444)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ная схема уравнений диф
+                                                  фузии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ф (U+444)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ая схема уравнений дифф
+                                                  узии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...я схема уравнений диффу
+                                                  зии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character з (U+437)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... схема уравнений диффуз
+                                                  ии}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�хема уравнений диффузи
+                                                  и}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ема уравнений диффузии
+                                                  }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character С (U+421)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par С
+           делаем замену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character д (U+434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сд
+             елаем замену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сде
+               лаем замену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+43B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сдел
+                 аем замену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сдела
+                   ем замену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделае
+                     м замену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+43C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем
+                        замену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character з (U+437)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем з
+                          амену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем за
+                            мену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+43C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем зам
+                              ену координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем заме
+                                ну координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем замен
+                                  у координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем замену
+                                     координат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+43A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем замену к
+                                       оординат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+43E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем замену ко
+                                         ординат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+43E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем замену коо
+                                           рдинат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем замену коор
+                                             динат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character д (U+434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем замену коорд
+                                               инат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \par Сделаем замену коорди
+                                                 нат в представ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... Сделаем замену координ
+                                                  ат в представл...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�делаем замену координа
+                                                  т в представле...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�елаем замену координат
+                                                   в представлен...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...лаем замену координат в
+                                                   представленн�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character п (U+43F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ем замену координат в п
+                                                  редставленных...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�м замену координат в пр
+                                                  едставленных �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...� замену координат в пре
+                                                  дставленных у�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character д (U+434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...замену координат в пред
+                                                  ставленных ур�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...амену координат в предс
+                                                  тавленных ура�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...мену координат в предст
+                                                  авленных урав�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ену координат в предста
+                                                  вленных уравн�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ну координат в представ
+                                                  ленных уравне�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+43B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...у координат в представл
+                                                  енных уравнен�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... координат в представле
+                                                  нных уравнени�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�оординат в представлен
+                                                  ных уравнения�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ординат в представленн
+                                                  ых уравнениях....
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ы (U+44B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�рдинат в представленны
+                                                  х уравнениях. �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character х (U+445)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�динат в представленных
+                                                   уравнениях. В�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...инат в представленных у
+                                                  равнениях. Воз...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...нат в представленных ур
+                                                  авнениях. Возь...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ат в представленных ура
+                                                  внениях. Возьм...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...т в представленных урав
+                                                  нениях. Возьмё...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... в представленных уравн
+                                                  ениях. Возьмём...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...� представленных уравне
+                                                  ниях. Возьмём �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+43D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...представленных уравнен
+                                                  иях. Возьмём с�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...редставленных уравнени
+                                                  ях. Возьмём сл�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character я (U+44F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...едставленных уравнения
+                                                  х. Возьмём сле�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character х (U+445)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...дставленных уравнениях
+                                                  . Возьмём след�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
 ! LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \section{�
-              �исленная схема уравнений диффузии}
+l.3 ...�ставленных уравнениях.
+                                                   Возьмём следу...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
+Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
-[]
- []
+! Package inputenc Error: Unicode character В (U+412)
+(inputenc)                not set up for use with LaTeX.
 
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
+See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 \par �
-          �ля первого уравнения $\d \frac{\partial c_{s}}{...
+l.3 ...тавленных уравнениях. В
+                                                  озьмём следую�...
 
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
-
-LaTeX Warning: Command \d invalid in math mode on input line 3.
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-LaTeX Warning: Command \d invalid in math mode on input line 3.
+! Package inputenc Error: Unicode character о (U+43E)
+(inputenc)                not set up for use with LaTeX.
 
-LaTeX Font Info:    Try loading font information for +cmr on input line 3.
-LaTeX Font Info:    No file cmr.fd. on input line 3.
-
-LaTeX Font Warning: Font shape `/cmr/m/n' undefined
-(Font)              using `/cmr/m/n' instead on input line 3.
-
-! Corrupted NFSS tables.
-wrong@fontshape ...message {Corrupted NFSS tables}
-                                                  error@fontshape else let f...
-l.3 ...первого уравнения $\d \frac
-                                                  {\partial c_{s}}{\partial ...
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-
-LaTeX Font Warning: Font shape `/cmr/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 3.
-
-Runaway argument?
-! Forbidden control sequence found while scanning use of \frac.
-<inserted text> 
-                \par 
-l.3 ...первого уравнения $\d \frac
-                                                  {\partial c_{s}}{\partial ...
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 3--4
-[]
- []
-
-
-Overfull \hbox (31.71996pt too wide) in paragraph at lines 3--4
-[][][] \OT1/cmr/m/n/10 +
- []
-
-
-Overfull \hbox (34.44908pt too wide) in paragraph at lines 3--4
-\OML/cmm/m/it/10 [][] \OT1/cmr/m/n/10 =
- []
-
-
-Overfull \hbox (65.39264pt too wide) in paragraph at lines 3--4
-[][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 D[]r[][]\OT1/cmr/m/n/10 )$
- []
-
-
-Overfull \hbox (9.2755pt too wide) in paragraph at lines 3--4
-\OML/cmm/m/it/10 r[]$
- []
-
-
-Overfull \hbox (210.43085pt too wide) detected at line 4
-[][] \OMS/cmsy/m/n/10  [][] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 [] [][] \OMS/c
-msy/m/n/10  [][] \OT1/cmr/m/n/10 = [][]
- []
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
+See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \par �
-          �очка $\xi$ здесь является промежуточн...
+l.3 ...авленных уравнениях. Во
+                                                  зьмём следующ�...
 
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
-[]
- []
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-Overfull \hbox (4.83508pt too wide) in paragraph at lines 5--6
-\OML/cmm/m/it/10 $
- []
+! Package inputenc Error: Unicode character з (U+437)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...вленных уравнениях. Воз
+                                                  ьмём следующу�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-Overfull \hbox (4.83508pt too wide) in paragraph at lines 5--6
-\OML/cmm/m/it/10 $
- []
+! Package inputenc Error: Unicode character ь (U+44C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ленных уравнениях. Возь
+                                                  мём следующую ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-Overfull \hbox (29.976pt too wide) in paragraph at lines 5--6
-[]$
- []
+! Package inputenc Error: Unicode character м (U+43C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...енных уравнениях. Возьм
+                                                  ём следующую з...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-Overfull \hbox (823.64076pt too wide) detected at line 6
-[] \OMS/cmsy/m/n/10  [] \OT1/cmr/m/n/10 + +\OML/cmm/m/it/10 [][] \OMS/cmsy/m/
-n/10  [] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 D[] []
- []
+! Package inputenc Error: Unicode character ё (U+451)
+(inputenc)                not set up for use with LaTeX.
 
-)
-! Emergency stop.
-<*> ./diff_eq_num_scheme.tex
-                            
-*** (job aborted, no legal \end found)
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...нных уравнениях. Возьмё
+                                                  м следующую за...
 
- 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+43C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ных уравнениях. Возьмём
+                                                   следующую зам...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�х уравнениях. Возьмём с
+                                                  ледующую заме�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+43B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...� уравнениях. Возьмём сл
+                                                  едующую замен�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...уравнениях. Возьмём сле
+                                                  дующую замену:...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character д (U+434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...равнениях. Возьмём след
+                                                  ующую замену: $...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...авнениях. Возьмём следу
+                                                  ющую замену: $$\...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ю (U+44E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...внениях. Возьмём следую
+                                                  щую замену: $$\d ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character щ (U+449)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...нениях. Возьмём следующ
+                                                  ую замену: $$\d \x...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ениях. Возьмём следующу
+                                                  ю замену: $$\d \xi ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ю (U+44E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ниях. Возьмём следующую
+                                                   замену: $$\d \xi = ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character з (U+437)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ях. Возьмём следующую з
+                                                  амену: $$\d \xi = \fr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�х. Возьмём следующую за
+                                                  мену: $$\d \xi = \frac...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+43C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�. Возьмём следующую зам
+                                                  ену: $$\d \xi = \frac{r...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... Возьмём следующую заме
+                                                  ну: $$\d \xi = \frac{r-R...
+(That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 17 strings out of 493305
- 310 string characters out of 3128932
- 57825 words of memory out of 3000000
- 3667 multiletter control sequences out of 15000+200000
+ 36 strings out of 492969
+ 597 string characters out of 3125697
+ 56694 words of memory out of 3000000
+ 4009 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,7n,12p,598b,106s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 10i,0n,10p,215b,33s stack positions out of 5000i,500n,10000p,200000b,50000s
+
 !  ==> Fatal error occurred, no output PDF file produced!
